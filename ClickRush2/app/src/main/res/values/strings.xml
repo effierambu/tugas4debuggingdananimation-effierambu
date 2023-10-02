@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClickRush</string>
+    <string name="score_text">Your Score: </string>
+    <string name="score">0</string>
+    <string name="time_text">Time Left: </string>
+    <string name="time">60</string>
+    <string name="button_tap">TAP ME!</string>
+
+</resources>
