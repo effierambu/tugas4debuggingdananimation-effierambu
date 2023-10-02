@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnClickMe" type="id" />
+    <item name="textViewName" type="id" />
+    <item name="tvScore" type="id" />
+    <item name="tvPesan" type="id" />
+    <item name="tvTime" type="id" />
+    <item name="btnTapMe" type="id" />
+    <item name="tv0" type="id" />
+    <item name="infoDetail" type="id" />
+    <item name="tv60" type="id" />
+    <item name="menu" type="id" />
+    <item name="action_about" type="id" />
+</resources>

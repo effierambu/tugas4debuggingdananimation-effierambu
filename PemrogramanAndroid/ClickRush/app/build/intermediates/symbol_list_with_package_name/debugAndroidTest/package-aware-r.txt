@@ -1,0 +1,3 @@
+com.PemrogramanAndroid.clickrush.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
